@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/alvinlaw/go-ethereum/common"
 )
 
 func TestSolSha3Legacy(t *testing.T) {

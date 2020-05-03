@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/alvinlaw/go-ethereum/accounts/abi"
+	"github.com/alvinlaw/go-ethereum/common"
 	"golang.org/x/crypto/sha3"
 )
 
